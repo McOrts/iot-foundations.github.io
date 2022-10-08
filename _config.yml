@@ -1,0 +1,23 @@
+url: http://iot-foundations.github.io
+baseurl:
+
+# Site settings
+title: Bienvenido a la web del Internet de las Cosas
+theme: jekyll-theme-cayman
+email: carlos@iot/iot-foundations.org
+description: Desde el manifiesto del IoT a los detalles más técnicos para entender y desarrollar esta tecnología
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections
+collections:
+  - content
+
+# Menu
+menu:
+  - Historia
+  - Qué hacemos
+  - Actividades
+  - Unete 
