@@ -34,6 +34,7 @@ technological-heritage-desc:
   en: All our work belongs to everybody and is part of the Technological Heritage
   es: Todo nuestro trabajo es de todos y forma parte del Patrimonio Tecnológico de la Humanidad
 
+
 projects:
   en: Projects
   es: Proyectos
@@ -66,6 +67,7 @@ canamunt-desc:
   en: First neighborhood with a free and self-managed IoT environmental network
   es: Primer barrio con una red IoT medioambiental libre y autogestionada
 
+
 tutorials:
   en: Tutorials
   es: Tutoriales
@@ -75,52 +77,8 @@ tutorials-desc:
   es: Aprende sobre tecnologias IoT libres
 
 sensor-aqi:
-  en: Air quality sensor workshop
-  es: Taller de construcción de sensores de calidad de aire
-
-introduction-desc:
-  en: A trip inside FPGAs
-  es: Viaje al interior de las FPGAs
-
-digital-fpga-makers:
-  en: Digital electronics
-  es: Electrónica digital
-
-digital-fpga-makers-desc:
-  en: Digital electronics for makers
-  es: Electrónica digital para makers
-
-tech-notebooks:
-  en: Technical notebooks
-  es: Cuadernos técnicos
-
-tech-notebooks-desc:
-  en: Technical notes about Open Source FPGAs
-  es: Notas técnicas sobre FPGAs libres
-
-riscv-ao-urjc:
-  en: RISC-V LAB
-  es: Laboratorio RISC-V
-
-riscv-ao-urjc-desc:
-  en: Practical course on RISC-V
-  es: Curso práctico sobre el RISC-V
-
-digital-design-verilog:
-  en: Digital design in Verilog
-  es: Diseño digital en Verilog
-
-digital-design-verilog-desc:
-  en: Introduction to Verilog language
-  es: Introducción al lenguaje Verilog
-
-logic-puzzles:
-  en: Knights and knaves
-  es: Caballeros y escuderos
-
-logic-puzzles-desc:
-  en: Solving logic puzzles with FPGAs
-  es: Resolviendo acertijos lógicos con FPGAs
+  en: Air quality sensor conected tutorial 
+  es: Tutorial para la construcción de sensores de calidad de aire conectado
 
 
 workshops:
@@ -128,84 +86,36 @@ workshops:
   es: Talleres
 
 workshops-desc:
-  en: Remember the workshops we have done
-  es: Recuerda los talleres que hemos realizado
+  en: Documentation of the workshops we have done
+  es: Documentación de los talleres que hemos realizado
 
-upm-reset-16:
-  en: UPM Reset 16
-  es: UPM Reset 16
+radiation:
+  en: Radiation sensor conected
+  es: Medidor de radiactividad ambiental conectado
 
-upm-reset-16-desc:
-  en: ETSII, UPM - Reset, 28 Oct 2016
-  es: ETSII, UPM - Reset, 28 Oct 2016
+radiation-desc:
+  en: IoT workshop to build a connected Geiger meter. Based on the ESP8266, MQTT, Node-RED and integrated in the GMC network
+  es: Taller IoT para construir un medidor Geiger conectado. Basado en el ESP8266, MQTT, Node-RED e integrado en la red GMC
 
-oshwdem-16:
-  en: OSHWDem 16
-  es: OSHWDem 16
+lorawan4dummies:
+  en: IoT and LoraWAN with BBC micro-bit for beginners
+  es: IoT y LoraWAN con BBC micro-bit para principiantes
 
-oshwdem-16-desc:
-  en: Museo Domus Coruña, 05 Nov 2016
-  es: Museo Domus Coruña, 05 Nov 2016
+lorawan4dummies-desc:
+  en: Internet of Things workshop with LoRa for beginners
+  es: Taller de Internet de las Cosas con LoRa para principiantes
 
-ourense-makerslab-16:
-  en: Ourense MakersLab 16
-  es: Ourense MakersLab 16
+keniasat:
+  en: Workshop for setup a satellite ground station
+  es: Taller para la configuración de una estación de recepción de satélites
 
-ourense-makerslab-16-desc:
-  en: La Molinera Ourense, 10 Dec 2016
-  es: La Molinera Ourense, 10 Dic 2016
-
-ual-17:
-  en: UAL 17
-  es: UAL 17
-
-ual-17-desc:
-  en: ETS Ingenieria, UAL, 24 Feb 2017
-  es: ETS Ingeniería, UAL, 24 Feb 2017
-
-fablab-valencia-17:
-  en: FabLab Valencia 17
-  es: FabLab Valencia 17
-
-fablab-valencia-17-desc:
-  en: Fablab VLC, UPV, 4 Mar 2017
-  es: Fablab VLC, UPV, 4 Mar 2017
-
-hacklab-upm-17:
-  en: Hacklab UPM 17
-  es: Hacklab UPM 17
-
-hacklab-upm-17-desc:
-  en: Hacklab-UPM, ETSIDI, 14 Mar 2017
-  es: Hacklab-UPM, ETSIDI, 14 Mar 2017
-
-upm-reset-17:
-  en: UPM Reset 17
-  es: UPM Reset 17
-
-upm-reset-17-desc:
-  en: ETSII, UPM - Reset, 30 Mar 2017
-  es: ETSII, UPM - Reset, 30 Mar 2017
-
-uc-17:
-  en: Cantabria University 17
-  es: Universidad de Cantabria 17
-
-uc-17-desc:
-  en: Summer course, UC - July 6th 2017
-  es: Curso verano, UC - 6 Julio 2017
-
-urjc-19:
-  en: URJC RoboTech 19
-  es: URJC RoboTech 19
-
-urjc-19-desc:
-  en: ETSIT, URJC - Robotech, Oct 2019
-  es: ETSIT, URJC - Robotech, Oct-2019
+keniasat-desc:
+  en: Workshop guide for installation and monitoring of a TinyGS for SPACK
+  es: Taller para la instalación y monitorización de un TinyGS para SPACK
 
 next-workshop:
-  en: Next workshop...
-  es: Siguiente taller...
+  en: Next workshops...
+  es: Siguientes talleres...
 
 next-workshop-desc:
   en: Propose a new workshop!
@@ -220,126 +130,13 @@ talks-desc:
   en: Find all the information about our talks
   es: Encuentra toda la información de nuestras charlas
 
-granada-geek-16:
-  en: Granada Geek 16
-  es: Granada Geek 16
+starlink:
+  en: First Starlink connection
+  es: First Starlink connection in the Balearic Islands
 
-granada-geek-16-desc:
-  en: ETSIIT, Universidad de Granada, 23 Sep 2016
-  es: ETSIIT, Universidad de Granada, 23 Sep 2016
-
-mini-maker-faire-16:
-  en: Mini Maker Faire 16
-  es: Mini Maker Faire 16
-
-mini-maker-faire-16-desc:
-  en: Medialab-Prado Madrid, 24 Sep 2016
-  es: Medialab-Prado Madrid, 24 Sep 2016
-
-el-evento-16:
-  en: El evento 16
-  es: El evento 16
-
-el-evento-16-desc:
-  en: UC3M Madrid, 24 Oct 2016
-  es: UC3M Madrid, 24 Oct 2016
-
-oshwdem-16:
-  en: OSHWDem 16
-  es: OSHWDem 16
-
-oshwdem-16-desc:
-  en: Museo Domus Coruña, 05 Nov 2016
-  es: Museo Domus Coruña, 05 Nov 2016
-
-urjc-16:
-  en: URJC 16
-  es: URJC 16
-
-urjc-16-desc:
-  en: URJC Fuenlabrada, 09 Nov 2016
-  es: URJC Fuenlabrada, 09 Nov 2016
-
-bilbao-maker-faire-16:
-  en: Bilbao Maker Faire 16
-  es: Bilbao Maker Faire 16
-
-bilbao-maker-faire-16-desc:
-  en: Open space Bilbao, 18 Nov 2016
-  es: Open space Bilbao, 18 Nov 2016
-
-ourense-makerslab-16:
-  en: Ourense MakersLab 16
-  es: Ourense MakersLab 16
-
-ourense-makerslab-16-desc:
-  en: La Molinera, 20 Dec 2016
-  es: La Molinera, 20 Dic 2016
-
-upm-17:
-  en: UPM 17
-  es: UPM 17
-
-upm-17-desc:
-  en: ETSIDI, UPM, 09 Feb 2017
-  es: ETSIDI, UPM, 09 Feb 2017
-
-ual-17:
-  en: UAL 17
-  es: UAL 17
-
-ual-17-desc:
-  en: ETS Ingenieria, UAL, 24 Feb 2017
-  es: ETS Ingenieria, UAL, 24 Feb 2017
-
-fablab-valencia-17:
-  en: Fablab Valencia 17
-  es: Fablab Valencia 17
-
-fablab-valencia-17-desc:
-  en: Fablab VLC, UPV, 4 Mar 2017
-  es: Fablab VLC, UPV, 4 Mar 2017
-
-malakabot-17:
-  en: Malakabot 17
-  es: Malakabot 17
-
-malakabot-17-desc:
-  en: IES Jesus Marín, April 27th 2017
-  es: IES Jesus Marín, 27 Abril 2017
-
-ies-juan-cierva-17:
-  en: IES Juan de la Cierva 2017
-  es: IES Juan de la Cierva 2017
-
-ies-juan-cierva-17-desc:
-  en: IES Juan de la Cierva, May 5th 2017
-  es: IES Juan de la cierva, 5 Mayo 2017
-
-meetup-murcia-17:
-  en: Murcia Meetup 2017
-  es: Murcia Meetup 2017
-
-meetup-murcia-17-desc:
-  en: Murcia Meetup, May 20th 2017
-  es: Murcia Meetup, 20 de Mayo 2017
-
-
-fuerteventura-maker-17:
-  en: Fuerteventura Maker 17
-  es: Fuerteventura Maker 17
-
-fuerteventura-maker-17-desc:
-  en: Fuerteventura, Jun 1st 2017
-  es: Fuertevenura, 1 de Junio de 2017
-
-talk-urjc-19:
-  en: URJC, 19
-  es: URJC, 19
-
-talk-urjc-19-desc:
-  en: URJC, Sep-2019
-  es: URJC, Sep-2019
+starlink-desc:
+  en: Interview on IB3 radio about the Starlink satellite internet network
+  es: Entrevista en IB3 radio sobre la red de internet satelital de Starlink
 
 next-talk:
   en: Next talk...
