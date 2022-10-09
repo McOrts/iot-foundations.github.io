@@ -34,21 +34,13 @@ monitoring-desc:
   en: The information of the asset is the data that serves the utility of the product and service. Therefore, identifying what those data points are must be conscientious and deliberate. If is required to gather personal  information by the product ir must be handled carefully
   es: La información del activo son los datos que sirven a la utilidad del producto y servicio. Por lo tanto, identificar cuáles son esos puntos de datos debe ser una tarea concienzuda. Si se requiere que el producto recopile información personal, debe manipularse con cuidado
 
-:
-  en: 
-  es: 
+interoperability:
+  en: Interoperability, the power of IoT
+  es: Interoperabilidad, el poder de IoT
 
--desc:
-  en: 
-  es:
-
-:
-  en: 
-  es: 
-
--desc:
-  en: 
-  es:
+interoperability-desc:
+  en: IoT interoperability has complicated IoT adoption, but designers must adopt the selection of competing standards in other to an effective data interconnection
+  es: La interoperabilidad de IoT ha complicado la adopción de IoT, pero los diseñadores deben adoptar la selección de estándares competitivos para lograr una interconexión de datos efectiva
 
 free-software:
   en: Free Software
