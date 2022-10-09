@@ -3,9 +3,8 @@ menu:
   es: Menú
 
 intro-phrase:
-  en: Exploring the open side of the FPGAs
-  es: Explorando el lado libre de las FPGAs
-
+  en: Collaborative training of the Internet of Things
+  es: Formación colaborativa del Internet de las Cosas
 
 free-software:
   en: Free Software
@@ -30,7 +29,6 @@ technological-heritage:
 technological-heritage-desc:
   en: All our work belongs to everybody and is part of the Technological Heritage
   es: Todo nuestro trabajo es de todos y forma parte del Patrimonio Tecnológico de la Humanidad
-
 
 projects:
   en: Projects
