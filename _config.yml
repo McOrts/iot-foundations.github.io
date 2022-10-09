@@ -2,10 +2,19 @@ url: http://iot-foundations.github.io
 baseurl:
 
 # Site settings
-title: Bienvenido a la web del Internet de las Cosas
-theme: jekyll-theme-cayman
+title: IoT Foundations
 email: carlos@iot/iot-foundations.org
-description: Desde el manifiesto del IoT a los detalles más técnicos para entender y desarrollar esta tecnología
+description: Explorando el mundo IoT. Desde el Manifiesto a los detalles más técnicos para entender y desarrollar esta tecnología
+
+# Team names, titles and social links
+people:
+
+  - name: Carlos Orts (McOrts)
+    social:
+      - title: twitter
+        url: https://twitter.com/mcorts
+      - title: github
+        url: https://github.com/mcorts
 
 # Build settings
 markdown: kramdown
@@ -17,7 +26,9 @@ collections:
 
 # Menu
 menu:
-  - Historia
-  - Qué hacemos
-  - Actividades
-  - Unete 
+  - projects
+  - tutorials
+  - workshops
+  - talks
+  - team
+  - contribute
