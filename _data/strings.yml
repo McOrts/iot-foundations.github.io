@@ -46,13 +46,13 @@ ttnmallorca-desc:
   en: Open community to provide the entire Mallorca with Internet of Things data connectivity by crowdsourcing the network by its citizens and local companies.
   es: Comunidad abierta para proporcionar a toda Mallorca conectividad de datos de Internet de las cosas mediante la colaboración de ciudadanos y empresas locales.
 
-alhambra-ii:
-  en: Alhambra II
-  es: Alhambra II
+fumport:
+  en: Fum al Port
+  es: Fum al Prot
 
-alhambra-ii-desc:
-  en: Open FPGA board for makers
-  es: Placa con FPGA libre para makers
+fumport-desc:
+  en: Application for gathering, analyzing and warnings of environmental contamination in port environments
+  es: Aplicación de captura, análisis y alerta de contaminación ambiental en entornos portuarios
 
 icezum:
   en: IceZUM Alhambra
