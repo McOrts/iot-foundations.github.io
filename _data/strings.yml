@@ -6,6 +6,10 @@ intro-phrase:
   en: Collaborative training of the Internet of Things
   es: Formación colaborativa del Internet de las Cosas
 
+manifesto:
+  en: The world is becoming increasingly connected. This allows the development of new products designed by engineers and offers opportunities for entrepreneurs to create unprecedented services.  Yet, the huge connectivity rules the world in a new paradigm with new questions and challenges.
+  es: El mundo está cada vez más conectado.  Esto permite el desarrollo de nuevos productos diseñados por ingenieros y ofrece oportunidades para que los empresarios creen servicios sin precedentes.  Sin embargo, la enorme conectividad gobierna el mundo en un nuevo paradigma que nos lleva a nuevas preguntas y desafíos.
+
 free-software:
   en: Free Software
   es: Software Libre
@@ -39,8 +43,8 @@ projects-desc:
   es: Indice de proyectos desarrollados para el Internet de las Cosas
 
 ttnmallorca:
-  en: The Things Networks Mallorca
-  es: The Things Networks Mallorca
+  en: TTN Community of Mallorca
+  es: Comunidad TTN de Mallorca
 
 ttnmallorca-desc:
   en: Open community to provide the entire Mallorca with Internet of Things data connectivity by crowdsourcing the network by its citizens and local companies.
@@ -54,9 +58,9 @@ fumport-desc:
   en: Application for gathering, analyzing and warnings of environmental contamination in port environments
   es: Aplicación de captura, análisis y alerta de contaminación ambiental en entornos portuarios
 
-icezum:
-  en: IceZUM Alhambra
-  es: IceZUM Alhambra
+canamunt:
+  en: First neighborhood with a free and self-managed IoT environmental network
+  es: Primer barrio con una red IoT medioambiental libre y autogestionada
 
 icezum-desc:
   en: Open FPGA board for makers
