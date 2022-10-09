@@ -31,8 +31,8 @@ monitoring:
   es: Monitorizar activos antes que personas
 
 monitoring-desc:
-  en: 
-  es:
+  en: The information of the asset is the data that serves the utility of the product and service. Therefore, identifying what those data points are must be conscientious and deliberate. If is required to gather personal  information by the product ir must be handled carefully
+  es: La información del activo son los datos que sirven a la utilidad del producto y servicio. Por lo tanto, identificar cuáles son esos puntos de datos debe ser una tarea concienzuda. Si se requiere que el producto recopile información personal, debe manipularse con cuidado
 
 :
   en: 
