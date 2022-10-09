@@ -18,19 +18,19 @@ connecting-desc:
   en: Adding connectivity to an object is neither a necessary nor a sufficient condition for a successful product. Monetising only through connectivity rarely guarantees sustainable commercial success
   es: Añadir conectividad a un objeto no es condición necesaria ni suficiente para convertirlo en un producto de éxito.  Monetizar solo a través de la conectividad rara vez garantiza un éxito comercial sostenible
 
-:
-  en: 
-  es: 
+security:
+  en: Secutiry, security and security
+  es: Seguridad, seguridad y seguridad
 
--desc:
-  en: 
-  es:
+security-desc:
+  en: With connectivity comes the potential for external security threats through the devices themselves. Some new communication technologies are born with security deficiencies.  It is mandatory to make a safe design at the beginning
+  es: Con la conectividad viene el potencial de amenazas de seguridad externas a través de los propios dispositivos.  Algunas nuevas tecnologías nacen con carencias de seguridad.  Es obligatorio hacer un diseño seguro desde principio
 
-:
-  en: 
-  es: 
+monitoring:
+  en: Monitor assets before people
+  es: Monitorizar activos antes que personas
 
--desc:
+monitoring-desc:
   en: 
   es:
 
