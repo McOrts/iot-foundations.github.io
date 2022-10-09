@@ -59,232 +59,24 @@ fumport-desc:
   es: Aplicación de captura, análisis y alerta de contaminación ambiental en entornos portuarios
 
 canamunt:
+  en: Canamunt IoT neighborhood
+  es: El barrio IoT de Canamunt
+
+canamunt-desc:
   en: First neighborhood with a free and self-managed IoT environmental network
   es: Primer barrio con una red IoT medioambiental libre y autogestionada
-
-icezum-desc:
-  en: Open FPGA board for makers
-  es: Placa con FPGA libre para makers
-
-icestudio:
-  en: Icestudio
-  es: Icestudio
-
-icestudio-desc:
-  en: Graphic editor for open FPGAs
-  es: Editor gráfico para FPGAs libres
-
-icecrystal:
-  en: iceCrystal
-  es: iceCrystal
-
-icecrystal-desc:
-  en: Icestudio Collection to drive LCDs
-  es: Colección de Icestudio para LCDs
-
-stdio:
-  en: stdio
-  es: stdio
-
-stdio-desc:
-  en: Icestudio Collection for standard I/O
-  es: Colección de Icestudio para E/S estándar
-
-collection-jedi:
-  en: Jedi collection
-  es: Jedi collection
-
-collection-jedi-desc:
-  en: Icestudio block collection
-  es: Colección de bloques para Icestudio
-
-collection-LOVE:
-  en: LOVE-FPGA Collection
-  es: Colección LOVE-FPGA
-
-collection-LOVE-desc:
-  en: Icestudio Collection for virtual components
-  es: Colección de Icestudio para componentes virtuales
-
-icefactory:
-  en: IceFactory
-  es: IceFactory
-
-icefactory-desc:
-  en: Icestudio block factory
-  es: Fábrica de bloques para Icestudio
-
-LOVE-FPGA:
-  en: LOVE-FPGA Project
-  es: Projecto LOVE-FPGA
-
-LOVE-FPGA-desc:
-  en: Linking Of Virtual Electronics to FPGAs
-  es: Conectando electrónica virtual a FPGAs
-
-icemem:
-  en: Icemem
-  es: Icemem
-
-icemem-desc:
-  en: Icestudio Collection with Memory blocks
-  es: Colección de Icestudio con bloques de memorias
-
-iceK:
-  en: IceK
-  es: IceK
-
-iceK-desc:
-  en: Icestudio Collection with Constants
-  es: Colección de Icestudio con Constantes
-
-webterm:
-  en: WebTerm
-  es: WebTerm
-
-webterm-desc:
-  en: Web Serial Terminal
-  es: Terminal Serie Web
-
-toggle:
-  en: Toggle Button
-  es: Toggle Button
-
-toggle-desc:
-  en: Web Serial Toggle Button
-  es: Botón Serie Web
-
-z80icestudio:
-  en: Z80 CPU
-  es: CPU Z80
-
-z80icestudio-desc:
-  en: Z80 CPU for Icestudio
-  es: CPU Z80 para Icestudio
-
-riscvicestudio:
-  en: RISC-V
-  es: RISC-V
-
-riscvicestudio-desc:
-  en: 32-bits RISC-V for Icestudio
-  es: RISC-V de 32 bits para Icestudio
-
-j1aswapforthicestudio:
-  en: J1a-SwapForth
-  es: J1a-SwapForth
-
-j1aswapforthicestudio-desc:
-  en: Minimal CPU that runs SwapForth
-  es: CPU mínima que ejecuta SwapForth
-
-apio:
-  en: Apio
-  es: Apio
-
-apio-desc:
-  en: Micro-ecosystem for open FPGAs
-  es: Micro-ecosistema para FPGAs libres
-
-apio-ide:
-  en: Apio IDE
-  es: Apio IDE
-
-apio-ide-desc:
-  en: Development IDE for open FPGAs
-  es: IDE de desarrollo para FPGAs libres
-
-simplez:
-  en: Simplez
-  es: Simplez
-
-simplez-desc:
-  en: Educational CPU in Verilog
-  es: CPU educativa en Verilog
-
-acc:
-  en: Apollo CPU Core
-  es: Apollo CPU Core
-
-acc-desc:
-  en: Apollo CPU in Verilog
-  es: Apollo CPU en Verilog
-
-pio-ice40:
-  en: PIO Lattice iCE40
-  es: PIO Lattice iCE40
-
-pio-ice40-desc:
-  en: PlatformIO support for open FPGAs
-  es: Soporte en PlatformIO para FPGAs libres
-
-alhambra-led:
-  en: Alhambra LED
-  es: Alhambra LED
-
-alhambra-led-desc:
-  en: LED peripheral for the IceZUM Alhambra
-  es: Periférico LED para la Icezum Alhambra
-
-alhambra-button:
-  en: Alhambra button
-  es: Alhambra botón
-
-alhambra-button-desc:
-  en: Button for the IceZUM Alhambra
-  es: Botón para la IceZUM Alhambra
-
-alhambra-support:
-  en: Alhambra support
-  es: Alhambra soporte
-
-alhambra-support-desc:
-  en: 3D support for the IceZUM Alhambra
-  es: Soporte 3D para la IceZUM Alhambra
-
-alhambra-switch:
-  en: Alhambra switch
-  es: Alhambra interruptor
-
-alhambra-switch-desc:
-  en: Switch for the IceZUM Alhambra
-  es: Interruptor para la IceZUM Alhambra
-
-jelly-kbd:
-  en: Jelly matrix keyboard
-  es: Teclado matricial Jelly
-
-jelly-kbd-desc:
-  en: Hacking and examples of use
-  es: Trucaje y ejemplos de uso
-
-icebot:
-  en: Icebot
-  es: Icebot
-
-icebot-desc:
-  en: FPGA educational Printbot
-  es: Printbot educativo con FPGA
-
-cherry-mx:
-  en: Cherry-mx PCBPrint
-  es: PCBPrint Cherry-mx
-
-cherry-mx-desc:
-  en: Cherry-mx switch for the Alhambra board
-  es: Pulsador cherry-mx para la placa Alhambra
 
 tutorials:
   en: Tutorials
   es: Tutoriales
 
 tutorials-desc:
-  en: Learn about Opensource FPGAs
-  es: Aprende sobre FPGAs Libres
+  en: Learn about IoT open technologies 
+  es: Aprende sobre tecnologias IoT libres
 
-introduction:
-  en: Introduction
-  es: Introducción
+sensor-aqi:
+  en: Air quality sensor workshop
+  es: Taller de construcción de sensores de calidad de aire
 
 introduction-desc:
   en: A trip inside FPGAs
