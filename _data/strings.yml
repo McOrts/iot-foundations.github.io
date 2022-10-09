@@ -35,8 +35,16 @@ projects:
   es: Proyectos
 
 projects-desc:
-  en: Index of projects developed with Open Source FPGAs
-  es: Indice de proyectos hechos con FPGAs libres
+  en: Index of projects developed for Internet Of Things 
+  es: Indice de proyectos desarrollados para el Internet de las Cosas
+
+ttnmallorca:
+  en: The Things Networks Mallorca
+  es: The Things Networks Mallorca
+
+ttnmallorca-desc:
+  en: Open community to provide the entire Mallorca with Internet of Things data connectivity by crowdsourcing the network by its citizens and local companies.
+  es: Comunidad abierta para proporcionar a toda Mallorca conectividad de datos de Internet de las cosas mediante la colaboración de ciudadanos y empresas locales.
 
 alhambra-ii:
   en: Alhambra II
