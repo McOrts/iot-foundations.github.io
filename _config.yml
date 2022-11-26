@@ -16,7 +16,7 @@ people:
       - title: github
         url: https://github.com/mcorts
 
-  - collaborator: Sinay
+  - name: Sinay
     social:
       - title: twitter
         url: https://twitter.com/SinayCommunity
