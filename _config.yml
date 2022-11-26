@@ -16,6 +16,11 @@ people:
       - title: github
         url: https://github.com/mcorts
 
+  - name: Sinay
+      social:
+      - title: Linkedin
+        url: https://www.linkedin.com/company/sinay/
+
 # Build settings
 markdown: kramdown
 permalink: pretty
