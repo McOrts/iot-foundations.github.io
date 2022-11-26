@@ -18,8 +18,8 @@ people:
 
   - name: Sinay
       social:
-      - title: Linkedin
-        url: https://www.linkedin.com/company/sinay/
+      - title: twitter
+        url: https://twitter.com/SinayCommunity
 
 # Build settings
 markdown: kramdown
