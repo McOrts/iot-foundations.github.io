@@ -26,7 +26,27 @@
                   </div>
               </div>
             {% endfor %}
-            <img src="img/team/businesscard_mcorts.png" width=350 align="right" />
+            <img src="img/team/businesscard_mcorts.png" width=250 align="right" />
+        </div>
+        <div class="row">
+            {% for collaborator in site.people %}
+              <div class="col-sm-3">
+                  <div class="team-collaborator">
+                      <!--<img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">-->
+                      <h4>{{ collaborator.name }}</h4>
+                      <p class="text-muted">{% include translate.html key='collaborator-position' %}</p>
+                      <ul class="list-inline social-buttons">
+                          {% for network in collaborator.social %}
+                            <li>
+                                <a href="{{ network.url }}">
+                                    <i class="fa fa-{{ network.title }}"></i>
+                                </a>
+                            </li>
+                          {% endfor %}
+                      </ul>
+                  </div>
+              </div>
+            {% endfor %}
             <img src="img/team/sinay.png" width=250 align="right" />
         </div>
     </div>
