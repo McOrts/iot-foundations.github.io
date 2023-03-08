@@ -20,6 +20,9 @@ people:
     social:
       - title: twitter
         url: https://twitter.com/SinayCommunity
+      - title: link
+        url: https://sinay.ai/en/
+
 
 # Build settings
 markdown: kramdown
