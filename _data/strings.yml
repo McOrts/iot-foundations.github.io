@@ -112,6 +112,10 @@ sensor-aqi:
   en: Air quality sensor conected tutorial 
   es: Tutorial para la construcción de sensores de calidad de aire conectado
 
+anemometros:
+  en: How can you connect an anemometer with KNX, MQTT, LoRaWAN or wire?
+  es: ¿Cómo conectar un anemómetro por KNX, MQTT, WiFi, LoRaWAN o cable?  
+
 
 workshops:
   en: Workshops
