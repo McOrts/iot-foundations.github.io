@@ -116,6 +116,10 @@ anemometros:
   en: How can you connect an anemometer with KNX, MQTT, WiFi, LoRaWAN and wire?
   es: ¿Cómo conectar un anemómetro por KNX, MQTT, WiFi, LoRaWAN y cable?  
 
+gatewaylorawan:
+  en: Development guide and logbook of the first LoRaWAN TTN gateway in the Balearic Islands
+  es: Guia y diario del desarrollo del primer gateway LoRaWAN TTN de Baleares
+
 
 workshops:
   en: Workshops
