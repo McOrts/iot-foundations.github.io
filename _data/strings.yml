@@ -99,6 +99,14 @@ canamunt-desc:
   en: First neighborhood with a free and self-managed IoT environmental network
   es: Primer barrio con una red IoT medioambiental libre y autogestionada
 
+institut:
+  en: IES Capdepera
+  es: IES Capdepera
+
+institut-desc:
+  en: Case Study. Implementation of IoT Technologies in Schools. Since 2022, a program has been under development, beginning with training teachers in LoRaWAN and Arduino technologies. It has involved the monitoring of a greenhouse and will continue with a PoC of smart managing water supply.
+  es: Proyecto de implementación de tecnologías IoT en escuelas. Desde 2022 iniciamos un itinerario que comienza con la capacitación de docentes en tecnologías LoRaWAN y Arduino. Ha incluido la monitorización de un invernadero y continuará con una PoC de gestión inteligente del suministro de agua.
+
 
 tutorials:
   en: Tutorials
