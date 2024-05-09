@@ -83,6 +83,14 @@ ttnmallorca-desc:
   en: Open community to provide all of Mallorca land with Internet of Things data LoRaWAN connectivity through network crowdsourcing by its citizens and local companies.
   es: Comunidad abierta para proporcionar a todo el territorio de Mallorca conectividad LoRaWAN de datos para Internet de las Cosas a través de la colaboració por parte de sus ciudadanos y empresas locales.
 
+jaleometros:
+  en: Jaleómetros. Environmental noise monitoring
+  es: Jaleómetros. Monitorización de ruido ambiental
+
+jaleometros-desc:
+  en: Citizen Science Project for continuous recording, alarms and warnings of environmental noise. Currently there is a network of sensors that covers the key areas of 6 neighborhoods in Palma de Mallorca and 1 in Donosti.
+  es: Proyecto de Ciencia Ciudadana para el registro continuo, alarmas y avisos de ruido ambiental. Actualmente existe una red de sensores que cubre las zonas clave de 6 barrios de Palma de Mallorca y 1 de Donosti.
+
 fumport:
   en: Fum al Port
   es: Fum al Port
@@ -201,6 +209,14 @@ cienciaciudadanaib:
 cienciaciudadanaib-desc:
   en: The environmental noise monitoring project has been the center of debate in the Balearic Parliament after an initiative that we have helped develop was presented. Based on the recommendations to include Citizen Science included in document C/2023/1640.
   es: El proyecto de monitorización de ruido ambiental ha sido centro de debate en el Parlament Balear tras presentarse una iniciativa que hemos ayudado de desarrollar. Basada en las recomendaciones de incluir la Ciencia Ciudadana recogidas en el documento C/2023/1640.
+
+jaleometros3tv:
+  en: Prominence of noise sensors in the problem of Paseig Maritim.
+  es: Protagonismo de los sensores de ruido en la problemática del paseig Maritim.
+
+jaleometrosib3tv-desc:
+  en: Report from the Cinc dies team. Chapter 1752 "We talk about noise, a health problem"
+  es: Reportaje del equipo de Cinc dies. Capítulo 1752 "Hablamos del ruido, un problema de salud"
 
 next-talk:
   en: Next talk...
