@@ -186,9 +186,25 @@ talks-desc:
   en: Find all the information about our talks
   es: Encuentra toda la información de nuestras charlas
 
+jaleometrost5diesib3tv_mesa:
+  en: Debate on Environmental Noise on IB3 TV
+  es: Debate sobre el ruido ambiental en IB3 TV
+
+jaleometrost5diesib3tv_mesa-desc:
+  en: Participation in the CINC DIES program on IB3, where key aspects of the issue of noise pollution in cities are discussed, along with the role of the environmental noise sensor network in identifying the problem
+  es: Participación en el programa CINC DIES de IB3 donde se dialoga sobre los aspectos más destacados del problema de la contaminación acústica en las ciudades y el papel que hace la red de sensores de ruido ambiental en la identificación del problema
+
+jaleometrost5diesib3tv_vecino:
+  en: A Citizen's Experience with the Jaleómetro
+  es: Experiencia de un ciudadano con el Jaleómetro
+
+jaleometrost5diesib3tv_vecino-desc:
+  en: The CINC DIES program on IB3 TV interviews a resident of the Canamunt neighborhood, who is both a user and host of an environmental noise sensor. He shares his experience and how he utilizes the information he receives
+  es: El programa CINC DIES de IB3 TV entrevista a un vecino del barrio de Canamunt, usuario y hospedador de un sensor de ruido ambiental. Relata su experiencia y el uso de la información que recibe
+
 starlink:
-  en: First Starlink connection
-  es: First Starlink connection in the Balearic Islands
+  en: First Starlink connection in the Balearic Islands
+  es: Primera conexión con la red Starlink en las Islas Baleares
 
 starlink-desc:
   en: Interview on IB3 radio about the Starlink satellite internet network
