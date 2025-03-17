@@ -23,13 +23,6 @@ people:
       - title: link
         url: https://sinay.ai/en/
 
-    - name: Barakaldo Makers
-    social:
-      - title: mail
-        url: mailto:barakaldomakers@gmail.com
-      - title: link
-        url: linkedin.com/in/barakaldo-makers
-
 # Build settings
 markdown: kramdown
 permalink: pretty
