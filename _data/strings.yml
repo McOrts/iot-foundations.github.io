@@ -202,6 +202,10 @@ jaleometrost5diesib3tv_vecino-desc:
   en: The CINC DIES program on IB3 TV interviews a resident of the Canamunt neighborhood, who is both a user and host of an environmental noise sensor. He shares his experience and how he utilizes the information he receives
   es: El programa CINC DIES de IB3 TV entrevista a un vecino del barrio de Canamunt, usuario y hospedador de un sensor de ruido ambiental. Relata su experiencia y el uso de la información que recibe
 
+hosteltur:
+  en: Interview with Hosteltur on IoT adoption in tourism companies
+  es: Entrevista en Hoteltur sobre la adopción del IoT en las empresas turísticas
+
 starlink:
   en: First Starlink connection in the Balearic Islands
   es: Primera conexión con la red Starlink en las Islas Baleares
@@ -227,7 +231,7 @@ jaleometrostib3tv-desc:
   es: Reportaje del equipo de Cinc dies. Capítulo 1752 "Hablamos del ruido, un problema de salud"
 
 cienciaciudadanaib:
-  en: Support to the Balearic Islands government for Citizen Science 
+  en: Support to the Balearic Islands goverment for Citizen Science 
   es: Apoyo a gobierno de Illes Baleares para la Ciencia ciudadana
 
 cienciaciudadanaib-desc:
