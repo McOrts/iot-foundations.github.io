@@ -23,6 +23,13 @@ people:
       - title: link
         url: https://sinay.ai/en/
 
+    - name: Barakaldo Makers
+    social:
+      - title: twitter
+        url: https://twitter.com/SinayCommunity
+      - title: link
+        url: linkedin.com/in/barakaldo-makers
+
 # Build settings
 markdown: kramdown
 permalink: pretty
