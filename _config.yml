@@ -25,12 +25,11 @@ people:
 
     - name: Barakaldo Makers
     social:
-      - title: mail
-        url: barakaldomakers@gmail.com
+      - title: twitter
+        url: mailto:barakaldomakers@gmail.com
       - title: link
-        url: linkedin.com/in/barakaldo-makers
-
-
+        url: linkedin.com/in/barakaldo-mak
+ers
 # Build settings
 markdown: kramdown
 permalink: pretty
