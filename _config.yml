@@ -23,12 +23,19 @@ people:
       - title: link
         url: https://sinay.ai/en/
 
-  - name: Barakaldo Makers
+  - name: Electronic Circuit Desig
     social:
       - title: twitter
         url: https://twitter.com/SinayCommunity
       - title: link
-        url: https://sinay.ai/en/
+        url: https://ecdsl.com/
+
+  - name: Ibercomp 
+    social:
+      - title: twitter
+        url: https://twitter.com/SinayCommunity
+      - title: link
+        url: https://ibercomp.com/
 
 # Build settings
 markdown: kramdown
